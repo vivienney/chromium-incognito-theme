@@ -1,10 +1,10 @@
 {
 	"manifest_version": 2,
 
-	"name": "Material Incognito Dark Theme",
-	"description": "This theme has been deprecated in favour of the official Google Chrome dark theme.",
+	"name": "Chromium Incognito",
+	"description": "This theme is based on Chromium incognito dark theme.",
 
-	"version": "5.2.0",
+	"version": "5.3.0",
 
 	"icons": {
 		"128": "images/icon128.png"

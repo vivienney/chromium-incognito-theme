@@ -7,13 +7,19 @@
 	"version": "5.3.0",
 
 	"icons": {
-		"128": "images/icon128.png"
+		"128": "icons/icon128.png"
 	},
 
 	"theme": {
 		"images": {
-			"theme_toolbar": "images/material_refresh_grey.png",
-			"theme_ntp_background": "images/material_refresh_grey.png"
+			"theme_button_background": "images/theme_button_background.png",
+			"theme_frame": "images/frame_default.png",
+			"theme_frame_incognito": "images/frame_default.png",
+			"theme_frame_inactive": "images/frame_default.png",
+			"theme_frame_incognito_inactive": "images/frame_default.png",
+			"theme_tab_background": "images/theme_tab_default.png",
+			"theme_tab_background_incognito": "images/theme_tab_default.png",
+			"theme_toolbar": "images/theme_toolbar.png"
 		},
 		"colors": {
 			"frame": [32, 33, 36],

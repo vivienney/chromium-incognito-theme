@@ -23,9 +23,9 @@
 		},
 		"colors": {
 			"frame": [32, 33, 36],
-			"frame_inactive": [60, 64, 67],
+			"frame_inactive": [32, 33, 36],
 			"frame_incognito": [32, 33, 36],
-			"frame_incognito_inactive": [60, 64, 67],
+			"frame_incognito_inactive": [32, 33, 36],
 			"toolbar": [53, 54, 58],
 			"tab_text": [255, 255, 255],
 			"tab_background_text": [189, 193, 198],
